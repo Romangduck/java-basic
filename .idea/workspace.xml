@@ -4,13 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dfc1c5bd-76cb-4a6a-8b82-60794610be41" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/class1/ref/Data.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class1/ref/MethodChange1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class1/ref/MethodChange2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class1/ref/VarChange1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class1/ref/VarChange2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/myJavaStudy/VarType" afterDir="false" />
+    <list default="true" id="dfc1c5bd-76cb-4a6a-8b82-60794610be41" name="Changes" comment="Day-3">
+      <change afterPath="$PROJECT_DIR$/src/class1/ref/InitData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class1/ref/InitMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class1/ref/Method1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class1/ref/Student.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -63,9 +61,9 @@
       <recent name="class1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MethodChange1">
-    <configuration name="MethodChange1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class1.ref.MethodChange1" />
+  <component name="RunManager" selected="Application.InitMain">
+    <configuration name="InitMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class1.ref.InitMain" />
       <module name="java-basic" />
       <extension name="coverage">
         <pattern>
@@ -77,12 +75,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MoviewReviewMain2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class1.ex.MoviewReviewMain2" />
+    <configuration name="Method1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class1.ref.Method1" />
       <module name="java-basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class1.ex.*" />
+          <option name="PATTERN" value="class1.ref.Student" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -90,12 +88,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ProductOrderMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class1.ex.ProductOrderMain" />
+    <configuration name="MethodChange1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class1.ref.MethodChange1" />
       <module name="java-basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class1.ex.*" />
+          <option name="PATTERN" value="class1.ref.Student" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,7 +106,7 @@
       <module name="java-basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class1.ref.*" />
+          <option name="PATTERN" value="class1.ref.Student" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,7 +119,7 @@
       <module name="java-basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class1.ref.*" />
+          <option name="PATTERN" value="class1.ref.Student" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -131,11 +129,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.InitMain" />
+        <item itemvalue="Application.Method1" />
         <item itemvalue="Application.MethodChange1" />
         <item itemvalue="Application.VarChange2" />
         <item itemvalue="Application.VarChange1" />
-        <item itemvalue="Application.ProductOrderMain" />
-        <item itemvalue="Application.MoviewReviewMain2" />
       </list>
     </recent_temporary>
   </component>
@@ -151,12 +149,26 @@
       <workItem from="1727976825838" duration="2384000" />
       <workItem from="1727980000674" duration="909000" />
       <workItem from="1728561275308" duration="4503000" />
-      <workItem from="1728650244940" duration="2565000" />
+      <workItem from="1728650244940" duration="3774000" />
+      <workItem from="1728821853156" duration="3786000" />
     </task>
+    <task id="LOCAL-00001" summary="Day-3">
+      <option name="closed" value="true" />
+      <created>1728652876964</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1728652876964</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Day-3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Day-3" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
