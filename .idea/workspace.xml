@@ -4,7 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dfc1c5bd-76cb-4a6a-8b82-60794610be41" name="Changes" comment="Day-3" />
+    <list default="true" id="dfc1c5bd-76cb-4a6a-8b82-60794610be41" name="Changes" comment="Day-3">
+      <change afterPath="$PROJECT_DIR$/src/class1/ref/BigData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class1/ref/NullMain1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class1/ref/NullMain2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class1/ref/NullMain3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class1/ref/ex/ProductOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class1/ref/ex/ProductOrderMain2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class1/ref/ex/ProductOrderMain3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -50,18 +59,19 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="class1.ref.ex" />
       <recent name="class1.ref" />
       <recent name="class1.ex" />
       <recent name="class1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.InitMain">
-    <configuration name="InitMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class1.ref.InitMain" />
+  <component name="RunManager" selected="Application.ProductOrderMain3">
+    <configuration name="NullMain1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class1.ref.NullMain1" />
       <module name="java-basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class1.ref.*" />
+          <option name="PATTERN" value="class1.ref.ex.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -69,12 +79,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Method1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class1.ref.Method1" />
+    <configuration name="NullMain2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class1.ref.NullMain2" />
       <module name="java-basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class1.ref.Student" />
+          <option name="PATTERN" value="class1.ref.ex.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -82,12 +92,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MethodChange1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class1.ref.MethodChange1" />
+    <configuration name="NullMain3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class1.ref.NullMain3" />
       <module name="java-basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class1.ref.Student" />
+          <option name="PATTERN" value="class1.ref.ex.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -95,12 +105,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VarChange1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class1.ref.VarChange1" />
+    <configuration name="ProductOrderMain2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class1.ref.ex.ProductOrderMain2" />
       <module name="java-basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class1.ref.Student" />
+          <option name="PATTERN" value="class1.ref.ex.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,12 +118,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VarChange2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class1.ref.VarChange2" />
+    <configuration name="ProductOrderMain3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class1.ref.ex.ProductOrderMain3" />
       <module name="java-basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class1.ref.Student" />
+          <option name="PATTERN" value="class1.ref.ex.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -123,11 +133,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.InitMain" />
-        <item itemvalue="Application.Method1" />
-        <item itemvalue="Application.MethodChange1" />
-        <item itemvalue="Application.VarChange2" />
-        <item itemvalue="Application.VarChange1" />
+        <item itemvalue="Application.ProductOrderMain3" />
+        <item itemvalue="Application.ProductOrderMain2" />
+        <item itemvalue="Application.NullMain3" />
+        <item itemvalue="Application.NullMain2" />
+        <item itemvalue="Application.NullMain1" />
       </list>
     </recent_temporary>
   </component>
@@ -144,7 +154,8 @@
       <workItem from="1727980000674" duration="909000" />
       <workItem from="1728561275308" duration="4503000" />
       <workItem from="1728650244940" duration="3774000" />
-      <workItem from="1728821853156" duration="4900000" />
+      <workItem from="1728821853156" duration="5553000" />
+      <workItem from="1729070497020" duration="4168000" />
     </task>
     <task id="LOCAL-00001" summary="Day-3">
       <option name="closed" value="true" />
@@ -197,6 +208,24 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/class1/ref/NullMain1.java</url>
+          <line>4</line>
+          <properties class="class1.ref.NullMain1" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/class1/ref/NullMain3.java</url>
+          <line>3</line>
+          <properties class="class1.ref.NullMain3" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="5" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
