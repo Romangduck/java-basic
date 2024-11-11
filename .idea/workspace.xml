@@ -4,11 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dfc1c5bd-76cb-4a6a-8b82-60794610be41" name="Changes" comment="Day-7,8">
-      <change afterPath="$PROJECT_DIR$/src/access/Speaker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/access/SpeakerMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/access/a/AccessData.java" afterDir="false" />
+    <list default="true" id="dfc1c5bd-76cb-4a6a-8b82-60794610be41" name="Changes" comment="Day - 10">
+      <change afterPath="$PROJECT_DIR$/src/access/b/AccessOuterMain.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/access/a/AccessInnerMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/access/a/AccessInnerMain.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,7 +74,20 @@
       <command value="Am" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.SpeakerMain">
+  <component name="RunManager" selected="Application.AccessInnerMain">
+    <configuration name="AccessInnerMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="access.a.AccessInnerMain" />
+      <module name="java-basic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="access.a.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="BookMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="construct.BookMain" />
       <module name="java-basic" />
@@ -115,19 +127,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MemberDefaultMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="construct.MemberDefaultMain" />
-      <module name="java-basic" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="construct.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="SpeakerMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="access.SpeakerMain" />
       <module name="java-basic" />
@@ -143,11 +142,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AccessInnerMain" />
         <item itemvalue="Application.SpeakerMain" />
         <item itemvalue="Application.DataMain" />
         <item itemvalue="Application.BookMain" />
         <item itemvalue="Application.ConstructMain2" />
-        <item itemvalue="Application.MemberDefaultMain" />
       </list>
     </recent_temporary>
   </component>
@@ -172,7 +171,10 @@
       <workItem from="1729734948073" duration="3834000" />
       <workItem from="1729879059752" duration="623000" />
       <workItem from="1730012490437" duration="1013000" />
-      <workItem from="1730185307358" duration="4299000" />
+      <workItem from="1730185307358" duration="5657000" />
+      <workItem from="1731357338374" duration="37000" />
+      <workItem from="1731357384827" duration="144000" />
+      <workItem from="1731357541215" duration="304000" />
     </task>
     <task id="LOCAL-00001" summary="Day-3">
       <option name="closed" value="true" />
@@ -214,7 +216,15 @@
       <option name="project" value="LOCAL" />
       <updated>1729879081384</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Day - 10">
+      <option name="closed" value="true" />
+      <created>1730209942617</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1730209942617</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -224,7 +234,8 @@
     <MESSAGE value="Day-3" />
     <MESSAGE value="Day-6" />
     <MESSAGE value="Day-7,8" />
-    <option name="LAST_COMMIT_MESSAGE" value="Day-7,8" />
+    <MESSAGE value="Day - 10" />
+    <option name="LAST_COMMIT_MESSAGE" value="Day - 10" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
