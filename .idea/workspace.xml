@@ -4,14 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b139daf2-8585-40f5-a1bb-9552318dd90d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/access/BankAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/access/BankAccountMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="b139daf2-8585-40f5-a1bb-9552318dd90d" name="Changes" comment=".">
+      <change afterPath="$PROJECT_DIR$/src/memory/Data.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/memory/JavaMemoryMain1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/memory/JavaMemoryMain2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static1/Counter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static1/Data1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static1/Data2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static1/Data3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static1/DataCountMain1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static1/DataCountMain2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static1/DataCountMain3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class1/ClassStart2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class1/ClassStart2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,12 +55,24 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.BankAccountMain.executor": "Run",
+    "Application.CounterMain.executor": "Run",
+    "Application.DataCountMain1.executor": "Run",
+    "Application.DataCountMain2.executor": "Run",
+    "Application.DataCountMain3.executor": "Run",
+    "Application.JavaMemoryMain1.executor": "Run",
+    "Application.JavaMemoryMain2.executor": "Run",
+    "Application.ShoppingCartMain.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="10" />
+    </option>
+  </component>
   <component name="RunManager">
     <configuration name="BankAccountMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="access.BankAccountMain" />
@@ -86,6 +102,38 @@
       <option name="presentableId" value="Default" />
       <updated>1737610215371</updated>
     </task>
+    <task id="LOCAL-00001" summary=".">
+      <option name="closed" value="true" />
+      <created>1737622810962</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1737622810962</updated>
+    </task>
+    <task id="LOCAL-00002" summary=".">
+      <option name="closed" value="true" />
+      <created>1737703454400</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1737703454400</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="." />
+    <option name="LAST_COMMIT_MESSAGE" value="." />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/memory/JavaMemoryMain1.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
